@@ -20,4 +20,4 @@ Python, OpenCV, Haar Cascade
 Detects multiple faces and shows count on screen
 
 ---
-**Author**: Akhila Reddi Mandhadi
+**Author**: Akhila Reddy Mandhadi
