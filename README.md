@@ -17,6 +17,7 @@ Python, OpenCV, Haar Cascade
 3. Press `q` to quit webcam
 
 ## 📸 Output
+![Face Detection Output](output.png)
 Detects multiple faces and shows count on screen
 
 ---
